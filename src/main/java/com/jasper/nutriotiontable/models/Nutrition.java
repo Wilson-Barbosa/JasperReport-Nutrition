@@ -20,6 +20,4 @@ public class Nutrition {
     private Integer goal;
     private String metric;
 
-
-
 }

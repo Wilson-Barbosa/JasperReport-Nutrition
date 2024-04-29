@@ -184,6 +184,10 @@
 					</jr:column>
 				</jr:table>
 			</componentElement>
+			<image>
+				<reportElement x="378" y="59" width="50" height="50" uuid="7769d25b-b350-40c2-a67e-219e6980c30c"/>
+				<imageExpression><![CDATA["src/main/resources/static/images/orange-cat.jpg"]]></imageExpression>
+			</image>
 		</band>
 	</detail>
 	<columnFooter>
